@@ -1,5 +1,7 @@
 # Personalized Image Processing Toolbox ✅
 
+![image](https://github.com/SaadARazzaq/Personalized-Image-Processing/assets/123338307/4839a9f8-5d83-40ba-8f8f-fadb12a81775)
+
 Welcome to the Personalized Image Processing Toolbox! This repository is designed to be a comprehensive resource for individuals interested in image processing. Whether you're a beginner looking to start your journey or an experienced practitioner seeking tips, tricks, and useful codes, you've come to the right place.
 
 ## What's Inside?
